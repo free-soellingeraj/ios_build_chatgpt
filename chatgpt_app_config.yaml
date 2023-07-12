@@ -1,5 +1,6 @@
-api_key: YOUR_OPENAI_API_KEY
-max_tokens: 200
-YourAppBundleID: YOUR_APP_BUNDLE_ID
-iPhone: iPhone 12
-test_regime: path_to_your_test_script.sh
+api_key: "your openai api key"
+max_tokens: 1000
+YourAppPath: /path/to/new_project/build/Build/Products/Debug-iphonesimulator/new_project.app
+iPhone: iPhone 14
+test_regime: /path/to/new_project/ios_app_rapid_test.sh
+model_id: gpt-4
