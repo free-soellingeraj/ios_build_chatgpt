@@ -1,0 +1,10 @@
+build/*
+chatgpt_app_config.yaml
+ios_app_rapid_test.sh
+MixCulture/Preview Content/*
+.gitignore
+.git/*
+.ai_ignore
+.DS_Store
+MixCulture/Assets.xcassets/*
+MixCulture.xcodeproj/*

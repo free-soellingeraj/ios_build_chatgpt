@@ -1,0 +1,17 @@
+name: new_project
+targets:
+  MixCulture:
+    type: application
+    platform: iOS
+    deploymentTarget: "15.5"
+    sources:
+      - path: ./new_project
+    settings:
+      base:
+        INFOPLIST_FILE: new_project/Info.plist
+schemes:
+  MixCulture:
+    build:
+      targets:
+        MixCulture: all
+
