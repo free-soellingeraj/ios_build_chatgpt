@@ -1,0 +1,5 @@
+api_key: YOUR_OPENAI_API_KEY
+max_tokens: 200
+YourAppBundleID: YOUR_APP_BUNDLE_ID
+iPhone: iPhone 12
+test_regime: path_to_your_test_script.sh
