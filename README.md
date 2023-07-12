@@ -15,7 +15,7 @@ Tested in:
 $ mkdir -p path/to/new_project
 $ cd path/to/new_project
 $ cp path/to/ios_build_chatgpt/.ai_ignore .
-$ cp path/to/ios_build_chatgpt/ios_app_rapid_test.sh .
+$ cp path/to/ios_build_chatgpt/test_regimes/ios_app_rapid_test.sh .
 $ cp path/to/ios_build_chatgpt/project.yml .
 $ cp path/to/ios_build_chatgpt/chatgpt_app_config.yaml .
 ```
