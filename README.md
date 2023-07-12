@@ -1,5 +1,9 @@
 # ios_build_chatgpt
 Building IOS apps via the command line with LLM prompts.
+
+# Demo
+https://drive.google.com/file/d/1IFwAePTK5WdYikarxJk6oYcrGUc21Tdh/view?usp=drive_link
+
 # Environment
 Tested in:
 - MacOS (M1)
@@ -31,10 +35,6 @@ OpenAI API key is required in chatgpt_app_config.yaml for LLM
 ```bash
 $ path/to/ios_build_chatgpt/update_file_via_prompt.sh "your feature definition"
 ```
-
-# Demo
-https://drive.google.com/file/d/1IFwAePTK5WdYikarxJk6oYcrGUc21Tdh/view?usp=drive_link
-
 
 # Roadmap
 Bugs:
