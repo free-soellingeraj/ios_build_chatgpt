@@ -51,7 +51,7 @@ Features:
 	- agent is getting stuck
 - when the LLM says "the code already has that feature..."
 
-Hard coded shit
+Hard coded stuff
 
 - Starting point as the ios Hello, World. app doesn't seem to be scripted.  Create it in xcode and put it in GH.
 - the prompt template - move it into a purpose built python script that returns the prompt
